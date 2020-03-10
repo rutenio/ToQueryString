@@ -1,2 +1,2 @@
 # ToQueryString
-C# Class to retun a querystring format from a object parameter
+C# Class to return a querystring format from an object parameter, for use in some GET Api methods.
